@@ -6,4 +6,4 @@ bbb
 ssssss
 ddddddddddd
 
--[] egg
+-[]egg
