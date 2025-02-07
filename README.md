@@ -5,3 +5,5 @@ aaa
 bbb
 ssssss
 ddddddddddd
+
+-[] egg
